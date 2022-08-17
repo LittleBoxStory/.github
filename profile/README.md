@@ -3,7 +3,7 @@
 
 ![graph](https://user-images.githubusercontent.com/60427387/174480309-f8f166fc-90e2-4841-a94b-bb992a97968f.png)
 
-[👋 어플리케이션 다운로드는 여기서 하실 수 있어요!](https://drive.google.com/file/d/1Mv3uc6TMU7ODSQwz11E88uVObE3RYjFW/view?usp=sharing)
+[👋 구글 플레이 스토어에서 다운로드하기:) ](https://play.google.com/store/apps/details?id=com.little_box_story.ems_service)
 
 ---
 ### 🔥 개발 목적
