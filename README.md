@@ -7,8 +7,9 @@
 
 ![graph](https://user-images.githubusercontent.com/60427387/174480309-f8f166fc-90e2-4841-a94b-bb992a97968f.png)
 
-[👋 구글 플레이 스토어에서 다운로드하기:) ](https://play.google.com/store/apps/details?id=com.little_box_story.ems_service)
+[👋 어플리케이션 다운로드하기 ](https://drive.google.com/file/d/1Mv3uc6TMU7ODSQwz11E88uVObE3RYjFW/view)           
 
+* 과거에는 구글 플레이스토어에 올렸으나, 해당 앱이 내려가게 됨으로써 위 링크에서 다운 받아 구동 가능하십니다 : )
 ---
 ### 🔥 개발 목적
 
